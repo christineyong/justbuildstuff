@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+## Just build stuff (already)
+A field guide to navigating the wondrous but needlessly scary world of programming.
 
-You can use the [editor on GitHub](https://github.com/kuribits/justbuildstuff/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Mythbust
+Get to know tech as it is today from people in the field.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img src="https://styles.redditmedia.com/t5_2sdpm/styles/communityIcon_u6zl61vcy9511.png?width=256&s=c175de99213f30466ec007fc18704a0414f97c9e" height="15" alt="CS Career Questions Logo"> [**/r/cscareerquestions**](https://www.reddit.com/r/cscareerquestions/)<br />
+What is working in tech like?
 
-### Markdown
+[**MIT Technology Review**](https://www.technologyreview.com/)<br />
+What are the latest issues in and around tech?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Feed on the hive mind
+[**United Nations Global Issues**](https://www.un.org/en/global-issues/)
 
-```markdown
-Syntax highlighted code block
+[**United Nations Sustainable Development Goals**](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
 
-# Header 1
-## Header 2
-### Header 3
+[**Startup SG Accelerators**](https://www.startupsg.gov.sg/directory/incubators/)<br />
+Which verticals are incubators investing in?
 
-- Bulleted
-- List
+### Discovered in Singapore
+What research areas is Singapore investing and performing in? What can we translate into an enterprise solution?
 
-1. Numbered
-2. List
+[**NRF Features**](https://www.nrf.gov.sg/features/features)
 
-**Bold** and _Italic_ and `Code` text
+[**A*STAR Features**](https://www.a-star.edu.sg/News-and-Events/a-star-news/features)
 
-[Link](url) and ![Image](src)
-```
+[**NTU News**](https://www.ntu.edu.sg/news/?listingKeyword=&sort=latest&categories=6fa7163b-268a-48f8-893b-fac804a131d4&page=1)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[**NUS Research News**](https://news.nus.edu.sg/research)
 
-### Jekyll Themes
+## Deploy for free!
+<img src="https://surge.sh/images/logos/svg/surge-logo.svg" height="15" alt='Surge Logo'>  [**Surge**](https://surge.sh/)<br />
+Static web publishing for Front-End Developers. *Supports HTML, CSS, and JS*
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kuribits/justbuildstuff/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<!-- <img src="https://www.pythonanywhere.com/static/anywhere/images/PA-logo.svg" height="15" alt='Python Anywhere Logo'>  -->
+[**PythonAnywhere**](https://www.pythonanywhere.com/)<br />
+Host, run and code Python in the cloud. *Supports Python*
 
-### Support or Contact
+[**Heroku**](https://www.heroku.com/home)<br />
+Deploy and run apps. *Supports Node.js, Ruby, Java, PHP, Python, Go, Scala, Clojure*
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Scale that big fish
+[**Amazon Web Services**](https://aws.amazon.com/)<br />
+Free account and free tier cloud services.
+
+[**Google Cloud Plaform**](https://cloud.google.com/free)<br />
+Free trial and free tier cloud services.
+
+[**Microsoft Azure**](https://azure.microsoft.com/en-us/free/)<br />
+Free trial and free tier cloud services.
+
+## Just do work
+[**Startup SG Accelerators**](https://www.startupsg.gov.sg/directory/incubators/)<br />
+Get incubated!
+
+<img src="https://media-exp3.licdn.com/dms/image/C4D0BAQGT9Dy38Q2jdQ/company-logo_200_200/0/1519890805213?e=1633564800&v=beta&t=i80ZZaQKc16Qp8_Tri580CEpsAkOmNXYfqcm50n_Ljo" height="15" alt="GovTech Logo"> [**GovTech Singapore**](https://www.linkedin.com/jobs/search/?f_C=164351&geoId=92000000)
+
+<img src="https://ai-jobs.net/static/img/ai-jobs-logo.png" height="15" alt="AI Jobs Logo"> [**AI Jobs**](https://ai-jobs.net/)
