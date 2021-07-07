@@ -1,7 +1,6 @@
-## Just build stuff (already)
 A field guide to navigating the wondrous but needlessly scary world of programming.
 
-## Mythbust
+## 1. Mythbust
 Get to know tech as it is today from people in the field.
 
 <img src="https://styles.redditmedia.com/t5_2sdpm/styles/communityIcon_u6zl61vcy9511.png?width=256&s=c175de99213f30466ec007fc18704a0414f97c9e" height="15" alt="CS Career Questions Logo"> [**/r/cscareerquestions**](https://www.reddit.com/r/cscareerquestions/)<br />
@@ -10,7 +9,7 @@ What is working in tech like?
 [**MIT Technology Review**](https://www.technologyreview.com/)<br />
 What are the latest issues in and around tech?
 
-## Feed on the hive mind
+## 2. Feed on the hive mind
 [**United Nations Global Issues**](https://www.un.org/en/global-issues/)
 
 [**United Nations Sustainable Development Goals**](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
@@ -29,7 +28,7 @@ What research areas is Singapore investing and performing in? What can we transl
 
 [**NUS Research News**](https://news.nus.edu.sg/research)
 
-## Deploy for free!
+## 3. Deploy for free!
 <img src="https://surge.sh/images/logos/svg/surge-logo.svg" height="15" alt='Surge Logo'>  [**Surge**](https://surge.sh/)<br />
 Static web publishing for Front-End Developers. *Supports HTML, CSS, and JS*
 
@@ -40,7 +39,7 @@ Host, run and code Python in the cloud. *Supports Python*
 [**Heroku**](https://www.heroku.com/home)<br />
 Deploy and run apps. *Supports Node.js, Ruby, Java, PHP, Python, Go, Scala, Clojure*
 
-## Scale that big fish
+## 4. Scale that big fish
 [**Amazon Web Services**](https://aws.amazon.com/)<br />
 Free account and free tier cloud services.
 
@@ -50,7 +49,7 @@ Free trial and free tier cloud services.
 [**Microsoft Azure**](https://azure.microsoft.com/en-us/free/)<br />
 Free trial and free tier cloud services.
 
-## Just do work
+## 5. Just do work
 [**Startup SG Accelerators**](https://www.startupsg.gov.sg/directory/incubators/)<br />
 Get incubated!
 
