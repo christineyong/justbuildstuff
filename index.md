@@ -28,7 +28,18 @@ What research areas is Singapore investing and performing in? What can we transl
 
 [**NUS Research News**](https://news.nus.edu.sg/research)
 
-## 3. Deploy for free!
+## 3. Audition your ideas
+[**Google People + AI Guidebook: Patterns**](https://pair.withgoogle.com/guidebook/patterns)<br />
+Simple explanations of how to use ML in valuable, ethical ways. Comes with examples!
+
+## 4. Reinforcements!
+Use-cases to inspire your methodology, and how to augment your model(s) with more, better data.
+[**Generating Spotify Playlists with Unsupervised Learning**](https://towardsdatascience.com/generating-spotify-playlists-with-unsupervised-learning-abac60182022)
+
+[**Mining Wikipedia**](https://towardsdatascience.com/wikipedia-as-a-valuable-data-science-tool-6769991b43b7)<br />
+Useful for data-starved NLP projects!
+
+## 5. Deploy for free!
 <img src="https://surge.sh/images/logos/svg/surge-logo.svg" height="15" alt='Surge Logo'>  [**Surge**](https://surge.sh/)<br />
 Static web publishing for Front-End Developers. *Supports HTML, CSS, and JS*
 
@@ -39,7 +50,7 @@ Host, run and code Python in the cloud. *Supports Python*
 [**Heroku**](https://www.heroku.com/home)<br />
 Deploy and run apps. *Supports Node.js, Ruby, Java, PHP, Python, Go, Scala, Clojure*
 
-## 4. Scale that big fish
+## 6. Scale that big fish
 [**Amazon Web Services**](https://aws.amazon.com/)<br />
 Free account and free tier cloud services.
 
@@ -49,10 +60,19 @@ Free trial and free tier cloud services.
 [**Microsoft Azure**](https://azure.microsoft.com/en-us/free/)<br />
 Free trial and free tier cloud services.
 
-## 5. Just do work
+## 7. Just do work
+[**Explain Each Machine Learning Model at an Interview**](https://towardsdatascience.com/how-to-explain-each-machine-learning-model-at-an-interview-499d82f91470)
+
+[**Degrees in Data Science**](https://towardsdatascience.com/masters-of-the-house-on-degrees-and-credentials-in-data-science-9769b9d829b4)<br />
+Should you bother getting a degree in Data Science? Can you get a foot in the door without one?
+
 [**Startup SG Accelerators**](https://www.startupsg.gov.sg/directory/incubators/)<br />
 Get incubated!
 
 <img src="https://media-exp3.licdn.com/dms/image/C4D0BAQGT9Dy38Q2jdQ/company-logo_200_200/0/1519890805213?e=1633564800&v=beta&t=i80ZZaQKc16Qp8_Tri580CEpsAkOmNXYfqcm50n_Ljo" height="15" alt="GovTech Logo"> [**GovTech Singapore**](https://www.linkedin.com/jobs/search/?f_C=164351&geoId=92000000)
 
 <img src="https://ai-jobs.net/static/img/ai-jobs-logo.png" height="15" alt="AI Jobs Logo"> [**AI Jobs**](https://ai-jobs.net/)
+
+## 8. Data & COVID-19
+[**Who is the most vulnerable to health-related misinformation?**](https://www.turing.ac.uk/blog/who-most-vulnerable-health-related-misinformation)< br/>
+If your parents keep forwarding fake news, you might find this study interesting. If we know how to spot it, it's because we’re privileged!
