@@ -74,5 +74,5 @@ Get incubated!
 <img src="https://ai-jobs.net/static/img/ai-jobs-logo.png" height="15" alt="AI Jobs Logo"> [**AI Jobs**](https://ai-jobs.net/)
 
 ## 8. Data & COVID-19
-[**Who is the most vulnerable to health-related misinformation?**](https://www.turing.ac.uk/blog/who-most-vulnerable-health-related-misinformation)< br/>
+[**Who is the most vulnerable to health-related misinformation?**](https://www.turing.ac.uk/blog/who-most-vulnerable-health-related-misinformation)<br />
 If your parents keep forwarding fake news, you might find this study interesting. If we know how to spot it, it's because we’re privileged!
