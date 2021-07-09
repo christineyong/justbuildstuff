@@ -18,7 +18,7 @@ What are the latest issues in and around tech?
 Which verticals are incubators investing in?
 
 ### Discovered in Singapore
-What research areas is Singapore investing and performing in? What can we translate into an enterprise solution?
+What research areas is Singapore investing and performing in? What could we translate into an enterprise solution?
 
 [**NRF Features**](https://www.nrf.gov.sg/features/features)
 
