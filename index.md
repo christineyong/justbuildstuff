@@ -9,7 +9,7 @@ What is working in tech like?
 [**MIT Technology Review**](https://www.technologyreview.com/)<br />
 What are the latest issues in and around tech?
 
-## 2. Feed on the hive mind
+## 2. Feed on the hive mind 
 [**United Nations Global Issues**](https://www.un.org/en/global-issues/)
 
 [**United Nations Sustainable Development Goals**](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
