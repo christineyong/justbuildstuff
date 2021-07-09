@@ -55,7 +55,7 @@ Host, run and code Python in the cloud. *Supports Python*
 [**Heroku**](https://www.heroku.com/home)<br />
 Deploy and run apps. *Supports Node.js, Ruby, Java, PHP, Python, Go, Scala, Clojure*
 
-## 6. Scale that big fish
+## 6. Ready to scale?
 [**Amazon Web Services**](https://aws.amazon.com/)<br />
 Free account and free tier cloud services.
 
