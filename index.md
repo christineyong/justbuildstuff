@@ -44,7 +44,7 @@ Quick and dirty web scraping. *Python*
 [**Mining Wikipedia**](https://towardsdatascience.com/wikipedia-as-a-valuable-data-science-tool-6769991b43b7)<br />
 Useful for data-starved NLP projects!
 
-## 5. Deploy for free!
+## 5. Deploy for free
 <img src="https://surge.sh/images/logos/svg/surge-logo.svg" height="15" alt='Surge Logo'>  [**Surge**](https://surge.sh/)<br />
 Static web publishing for Front-End Developers. *Supports HTML, CSS, and JS*
 
