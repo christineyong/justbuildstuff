@@ -1,6 +1,6 @@
 A field guide to navigating the wondrous but needlessly scary world of programming.
 
-## 1. Mythbust
+## 1. Mythbust 
 Get to know tech as it is today from people in the field.
 
 <img src="https://styles.redditmedia.com/t5_2sdpm/styles/communityIcon_u6zl61vcy9511.png?width=256&s=c175de99213f30466ec007fc18704a0414f97c9e" height="15" alt="CS Career Questions Logo"> [**/r/cscareerquestions**](https://www.reddit.com/r/cscareerquestions/)<br />
@@ -9,7 +9,7 @@ What is working in tech like?
 [**MIT Technology Review**](https://www.technologyreview.com/)<br />
 What are the latest issues in and around tech?
 
-## 2. Feed on the hive mind 
+## 2. Feed on the hive mind
 [**United Nations Global Issues**](https://www.un.org/en/global-issues/)
 
 [**United Nations Sustainable Development Goals**](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
