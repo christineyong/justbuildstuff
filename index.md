@@ -15,7 +15,7 @@ What are the latest issues in and around tech?
 [**United Nations Sustainable Development Goals**](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
 
 [**Startup SG Accelerators**](https://www.startupsg.gov.sg/directory/incubators/)<br />
-Which areas of tech are incubators investing in?
+Which verticals are incubators investing in?
 
 ### Discovered in Singapore
 What research areas is Singapore investing and performing in? What can we translate into an enterprise solution?
