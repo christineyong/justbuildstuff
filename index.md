@@ -34,7 +34,12 @@ Simple explanations of how to use ML in valuable, ethical ways. Comes with examp
 
 ## 4. Reinforcements!
 Use-cases to inspire your methodology, and how to augment your model(s) with more, better data.
-[**Generating Spotify Playlists with Unsupervised Learning**](https://towardsdatascience.com/generating-spotify-playlists-with-unsupervised-learning-abac60182022)
+
+[**Scrape a Webpage wih BeautifulSoup**](https://medium.com/analytics-vidhya/web-scraping-for-beginners-with-python-and-beautifulsoup-3131435d0e97)<br />
+Quick and dirty web scraping. *Python*
+
+[**Generating Spotify Playlists with Unsupervised Learning**](https://towardsdatascience.com/generating-spotify-playlists-with-unsupervised-learning-abac60182022)<br />
+*Python*
 
 [**Mining Wikipedia**](https://towardsdatascience.com/wikipedia-as-a-valuable-data-science-tool-6769991b43b7)<br />
 Useful for data-starved NLP projects!
